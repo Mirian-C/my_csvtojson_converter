@@ -7,5 +7,10 @@ As funções recebem, basicamente: um input contendo um Path (caminho do arquivo
 
 ## Função leitura de .csv
 
-*'leitor_csv(input_path: Path, delimiter: str = ',' or ';')'
+* leitor_csv(input_path: Path, delimiter: str = ',' or ';')
+
+
+## Link para o PYPI
+
+* https://pypi.org/project/my-csvtojson-converter/
 
